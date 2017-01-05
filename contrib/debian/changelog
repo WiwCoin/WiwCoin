@@ -1,0 +1,5 @@
+WiwCoin (1.0.0) unstable; urgency=low
+
+  * Update debian package scripts for use by WiwCoin.
+
+ -- Xerxes Rånby <xerxes@gudinna.com>  12 December 2016 17:58:43 +0100

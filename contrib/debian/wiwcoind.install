@@ -1,0 +1,2 @@
+debian/bin/WiwCoind usr/bin
+src/WiwCoind usr/lib/WiwCoin

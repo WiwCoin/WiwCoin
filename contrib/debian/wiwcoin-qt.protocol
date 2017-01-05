@@ -1,0 +1,11 @@
+[Protocol]
+exec=WiwCoin-qt '%u'
+protocol=WiwCoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

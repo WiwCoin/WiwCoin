@@ -1,0 +1,9 @@
+Building WiwCoin
+
+See doc/readme-qt.rst for instructions on building WiwCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WiwCoin.
+
+See doc/build-*.txt for instructions on building WiwCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of WiwCoin.
